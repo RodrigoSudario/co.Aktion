@@ -28,4 +28,4 @@ Depois será necessário utilizar e emailjs de forma correta utilizando os id’
   
 <h2>- Como os dados serão armazenados?</h2>
 
-Os dados serão salvos no próprio banco do EmailJS, mas o squad está procurando uma forma de requisitar todos emails já recebidos e salvar em no MongoDB.
+Os dados serão salvos no próprio banco do EmailJS, mas o squad está procurando uma forma de requisitar todos emails já recebidos e salvar no MongoDB.
